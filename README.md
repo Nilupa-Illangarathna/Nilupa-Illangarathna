@@ -12,7 +12,7 @@
 - ⚡ Fun fact: …
 
 
-I'm a computer engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. I enjoy working/creating usefull products using Flutter framework, Machine learning, Full-stack development, Small games using flutter,pygames and security related projects. In 2020, I was selected to be an inaugural <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community.  My interest in the React ecosystem led me to launch <a href="https://www.reactrobins.com/">React Robins</a>, a community for women and non-binary ReactJS developers.
+I'm a computer engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. I enjoy working/creating usefull products using Flutter framework, Machine learning, Full-stack development, Small games using flutter,pygames and security related projects. 
 
 
 ## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
