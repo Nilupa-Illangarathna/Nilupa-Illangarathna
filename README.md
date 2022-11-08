@@ -18,4 +18,4 @@ I'm a computer engineer who is passionate about making contributing to open-sour
 ## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 - I learn in public on <a href="https://www.udemy.com">Udemy</a> or <a href="https://www.coursera.org">Coursera</a> 📹 ✍🏾
 - Sharing thoughts and interactions on <a href="www.facebook.com/nilupa.illangarathna.1/"> Facebook</a> 🏓
-- Sharing updates on <a href="[[https://www.linkedin.com/in/monicampowell/](https://www.linkedin.com/in/nilupa-illangarathna-1a5a0720b/)](https://www.linkedin.com/in/nilupa-illangarathna-1a5a0720b/)">LinkedIn</a> 💼
+- Sharing updates on <a href="www.linkedin.com/in/nilupa-illangarathna-1a5a0720b/">LinkedIn</a> 💼
