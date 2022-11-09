@@ -1,7 +1,7 @@
 
 # Hi, I'm Nilupa 👋🏾 👩🏾‍💻
 <h1 align="center">
-Hey, I'm Chanvitha Praeveen <img alt="wave" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+Hey, I'm Nilupa <img alt="wave" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" 👩🏾‍💻 width="30px">
 </h1>
 
 - 🔭 I’m currently working on …
