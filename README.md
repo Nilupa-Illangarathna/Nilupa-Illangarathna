@@ -1,5 +1,5 @@
 
-# Hi, I'm Nilupa <img alt="wave" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">🏾 👩🏾‍💻
+# Hi, I'm Nilupa <img alt="wave" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 👩🏾‍💻
 
 
 - 🔭 I’m currently working on …
