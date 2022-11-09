@@ -16,6 +16,9 @@
 I'm a computer engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. I enjoy working/creating usefull products using Flutter framework, Machine learning, Full-stack development, Small games using flutter,pygames and security related projects. 
 
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=chanvitha-hub&theme=algolia&show_icons=true)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanvitha-hub&theme=cobalt&show_icons=true)](https://github.com/chanvitha-hub/github-readme-stats)
+
+
 ## Designing tools
 ![Adobe XD](http://img.shields.io/badge/-Abode%20XD-purple?style=flat-square&logo=adobe-XD&logoColor=ffffff)
 ![Adobe Illustrator](http://img.shields.io/badge/-Abode%20Illustrator-orange?style=flat-square&logo=adobe-illustrator&logoColor=ffffff)
