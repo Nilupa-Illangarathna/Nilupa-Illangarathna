@@ -15,14 +15,14 @@
 
 I'm a computer engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. I enjoy working/creating usefull products using Flutter framework, Machine learning, Full-stack development, Small games using flutter,pygames and security related projects. 
 
-
+<!-- 
 
 ## Designing tools
 ![Adobe XD](http://img.shields.io/badge/-Abode%20XD-purple?style=flat-square&logo=adobe-XD&logoColor=ffffff)
 ![Adobe Illustrator](http://img.shields.io/badge/-Abode%20Illustrator-orange?style=flat-square&logo=adobe-illustrator&logoColor=ffffff)
 ![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-blue?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
 
-
+ -->
 
 <!-- ## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 - Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
