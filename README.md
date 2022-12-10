@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on …  
--                                  @ Data mining project
+-                                   Data mining project
 -                                  @ Smart aquaponics system for SLIoT challange     
 - 👀 I’m interested in …  
 -                                  ## Mobile app development
