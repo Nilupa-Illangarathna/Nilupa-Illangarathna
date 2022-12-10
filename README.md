@@ -2,30 +2,15 @@
 # Hi, I'm Nilupa <img alt="wave" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 👩🏾‍💻
 
 
-- 🔭 I’m currently working on   …   @Data mining project   …  @Smart aquaponics system for SLIoT challange  
--      Data mining project
--      Smart aquaponics system for SLIoT challange     
-- 👀 I’m interested in …  
--      Mobile app development
--      Full-stack development
--      Machine learning
--      Information anc network Security
+- 🔭 I’m currently working on   …   @Data mining project   …  @Smart aquaponics system for SLIoT challange    
+- 👀 I’m interested in   …  @Mobile app development   …  @Full-stack development   …  @Machine learning   …  @Information anc network Security
 -                                 
-- 🌱 I’m currently learning …
-- -    JavaScript a bit deeper to start Node.js
--      Machine learning using R language
--      I know flutter so tinking of learn about react native as well
-- 👯 I’m looking to collaborate on …
--      No limitations😄. I'm pushing my limits always.  
-- 🤔 I’m looking for help with …  
--      If there is a gain to me and to the community.. Why not?
-- 💬 Ask me about …
--      Anything. I'm friendly😄.
-- 📫 How to reach me: …
--      nilupalakshantha50@gmail.com
--      https://www.linkedin.com/in/nilupa-illangarathna-1a5a0720b/
+- 🌱 I’m currently learning   …  JavaScript a bit deeper to start Node.js   …  Machine learning using R language   …  I know flutter so tinking of learn about react native as well
+- 👯 I’m looking to collaborate on   …  No limitations😄. I'm pushing my limits always.  
+- 🤔 I’m looking for help with   …  If there is a gain to me and to the community.. Why not? Anything I'm capable of..
+- 💬 Ask me about   …  Anything. I'm friendly😄.
+- 📫 How to reach me:   …  nilupalakshantha50@gmail.com   …  https://www.linkedin.com/in/nilupa-illangarathna-1a5a0720b/
 - ⚡ Fun fact: …
--      
 
 
 I'm a computer engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. I enjoy working/creating usefull products using Flutter framework, Machine learning, Full-stack development, Small games using flutter,pygames and security related projects. 
