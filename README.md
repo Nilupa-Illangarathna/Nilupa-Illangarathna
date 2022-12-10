@@ -2,11 +2,23 @@
 # Hi, I'm Nilupa <img alt="wave" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 👩🏾‍💻
 
 
-- 🔭 I’m currently working on …
-- 👀 I’m interested in 
+- 🔭 I’m currently working on …  
+-                                  ## Data mining project
+-                                  ## Smart aquaponics system for SLIoT challange     
+- 👀 I’m interested in …  
+-                                  ## Mobile app development
+-                                  ## Full-stack development
+-                                  ## Machine learning
+-                                  ## Information anc network Security
+-                                 
 - 🌱 I’m currently learning …
+- -                                ## JavaScript a bit deeper to start Node.js
+-                                  ## Machine learning using R language
+-                                  ## I know flutter so tinking of learn about react native as well
 - 👯 I’m looking to collaborate on …
-- 🤔 I’m looking for help with …
+-                                  ## No limitations😄. I'm pushing my limits always.  
+- 🤔 I’m looking for help with …  
+-                                  ## If there is a gain to me and to the community.. Why not?
 - 💬 Ask me about …
 - 📫 How to reach me: …
 - 😄 Pronouns: …
