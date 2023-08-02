@@ -13,8 +13,7 @@
 
 
 I'm a computer engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. I enjoy working/creating usefull products using Flutter framework, Machine learning, Full-stack development, Small games using flutter,pygames and security related projects. 
-Connect with me:
-surali.pathirana.374 suralipathirana suvip0303
+
 <!-- 
 
 ## Designing tools
