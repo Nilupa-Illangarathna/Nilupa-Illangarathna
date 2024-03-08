@@ -4,6 +4,266 @@
 https://huggingface.co/Sigmoid-Clan
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=https://github.com/Nilupa-Illangarathna?tab=repositories&theme=" alt="https://github.com/Nilupa-Illangarathna?tab=repositories" /></a> </p>
 
+### <div align="center">I'm Nilupa Illangarathna,</div>
+
+- 🌱 I’m currently learning **J**
+
+# Hi, I'm Nilupa <img alt="wave" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 👩🏾‍💻
+
+- 🔭 I’m currently working on …
+  - ClothCraftAR
+  - ChatterBlast-SSE-Driven-Realtime-Collaborative-Connector-System
+
+- 👀 I’m interested in …
+  - Mobile app development
+  - Full-stack development
+  - Machine learning
+  - Information and network Security
+
+- 🌱 I’m currently learning …
+  - NestJS
+  - Augmented Reality
+  - JavaScript (deeper for Node.js)
+  - Machine learning using R language
+  - React Native
+
+# About Me
+
+I'm a computer engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. I enjoy working/creating useful products using Flutter framework, Machine learning, Full-stack development, Small games using Flutter, Pygames, and security-related projects.
+
+# CV Details
+
+## Nilupa Lakshantha Illangarathna
+
+- **Email:** nilupalakshantha50@gmail.com
+- **Phone:** 0778154328
+- **Address:** No 15, Katakumbura, Kadugannawa.
+- **GitHub:** [Nilupa-Illangarathna](https://github.com/Nilupa-Illangarathna)
+- **HackerRank:** [Black_Scorpion](https://www.hackerrank.com/Black_Scorpion)
+- **LinkedIn:** [Nilupa Illangarathna](https://www.linkedin.com/in/nilupa-illangarathna-1a5a0720b/)
+
+## Education
+
+**Computer Engineering Undergraduate**
+- Faculty of Engineering, University of Sri Jayawardhanapura, Nugegoda
+- Minor Specialization: Data Management
+- Overall GPA: 3.65
+- 2 semesters with Dean's list level GPAs (Above 3.80)
+
+**General Studies**
+- K/Dharmaraja College, Kandy
+- G.C.E(A/L) - PHYSICAL SCIENCE STREAM
+  - Results: Combined Mathematics B, Physics A, Chemistry B
+
+## Projects
+
+### CardioX
+- Pre-heart-attack detection system
+- Technologies: Deep learning neural networks, Python, Raspberry Pi, ECG sensors, Flutter SDK, Dart, Firebase
+
+### Ivory Wallet (Mar 2022 - Oct 2022)
+- Financial Management application with Future prediction ability
+- Technologies: Flutter, Dart, SQLite, Adobe XD, Android Studio, Visual Studio Code
+
+### GUI Tower Defence game with Java FX - Multithreading (Aug 2023 - Sep 2023)
+- Tower Defence game created using Java Gradle with JavaFX to demonstrate Multithreading
+- Technologies: Java, Gradle, Threads, JavaFX
+
+### CoolMart - group project (Jun 2021 - Jul 2021)
+- Supermarket management application
+- Technologies: C++, Object Oriented Programming
+
+## Technical Skills
+
+### Programming Languages
+- C++
+- Python
+- Dart
+
+### Database
+- Firebase
+- PostgresSQL
+
+### Frameworks
+- AWS
+- JavaFX
+- Java
+- JavaScript
+- Scala
+- MongoDB
+- Athena
+- Transformers
+- Pygame
+- Flutter SDK
+- React.js
+
+### Frontend
+- React Native
+- JavaFX
+- Node.js
+
+### Backend
+- SpringBoot
+
+### Big Data
+- Spark(Scala)
+- PySpark
+
+### WonderPal - (Ongoing)
+- Fantasy-driven vacation places suggestion system
+- Technologies: Flutter SDK, Node.js, AWS, Google Colab, NLP, Python, Spark, SpringBoot, Deep Learning, MongoDB, Firebase Authentication
+
+- NLP Applications: Sentiments with polarities, Summarization, NER, Embeddings with cosine similarity.
+- Models: BERT, DistilBert, GPT2, GPT3, NLTK, T5, All-MiniLM-L6-v2, Babelscape/wikineural-multilingual-ner, Dizex/FoodBaseBERT.
+
+(Mar 2023 - Oct 2023)
+
+## Personal Details
+
+- **DOB:** 02/10/1999
+
+## Experience
+
+**Computer Engineering Intern at LSEG** (Mar 2023 - Present)
+- Fields covering Data Engineering, Frontend, and Machine Learning.
+
+## Freelancer
+
+## Interests
+
+- Mobile app development
+- Machine Learning (NLP)
+- Game Development
+- Frontend Development
+- Backend Development
+- Data Engineering
+
+## Extra-Curricular Activities
+
+- Organizing committee-Tech talk
+  - In charge of Digital Marketing campaign and Designing IET on Campus USJ
+- School representative
+  - IESL JIY 2021 Competition Institute of Engineers Sri Lanka
+- Committee member-CENSOC
+  - Computer Engineering Society University of Sri Jayewardenepura.
+- Member of Marketing and Financial sub-team - Capital Racing Team University of Sri Jayawardhanapura
+
+## MOOCs
+
+- The Git & Github Bootcamp-Udemy
+- MySQL Database Development Mastery-Udemy
+- Complete Python Mastery-Code with Mosh
+- Machine Learning in Python - Theory & Implementation-Udemy
+- Flutter & Dart - The Complete Guide [2023 Edition]-Udemy
+- Flutter Advanced Course - Clean Architecture With MVVM-Udemy
+- WordPress Full guide 2022, develop investment website-Udemy
+
+## Soft Skills
+
+- Teamwork
+- Quick learner
+- Problem-solving
+- Strategic direction
+- Leadership
+
+## Competitions
+
+- Code Squad 2.0
+- IEEEXTREAM 15.0, 16.0 LSEG
+- HackerRank Gaming Challenge (Final round)
+
+## Version Control
+
+- GIT
+- GitHub
+
+## Declaration
+
+I do hereby declare that all the information given above is true to the best of my knowledge and belief.
+
+................................................
+
+Nilupa Illangarathna
+
+02/10/2023
+
+## IDEs
+
+- Android Studio
+- PyCharm
+- DevCPP
+- Visual Studio Code
+- Google Colaboratory
+
+## Simulation Tools
+
+- Proteus
+- Atmel Studio
+- Cisco Packet Tracer
+
+## Methodologies
+
+- Waterfall
+- Agile
+
+## Student Memberships
+
+- Student member
+  - Oct 2021 - Present
+  - Institute of Electrical and Electronics Engineers (IEEE)
+
+## Referees
+
+**Dr. Udaya Wijenayake**
+- Senior Lecturer, Department of Computer Engineering, University of Sri Jayawardenepura
+- Email: udayaw@sjp.ac.lk
+
+**Dr. Randima Dinalankara**
+- Head of the Department, Department of Computer Engineering, University of Sri Jayewardenepura
+- Email: randima@sjp.ac.lk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<h1 align="center">Hi 👋, I'm Nilupa Illangarathna</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=https://github.com/Nilupa-Illangarathna?tab=repositories&label=Profile%20views&color=0e75b6&style=flat" alt="https://github.com/Nilupa-Illangarathna?tab=repositories" /> </p>
+https://huggingface.co/Sigmoid-Clan
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=https://github.com/Nilupa-Illangarathna?tab=repositories&theme=" alt="https://github.com/Nilupa-Illangarathna?tab=repositories" /></a> </p>
+
 - 🌱 I’m currently learning **J**
 
 ### <div align="center">I'm Nilupa Illangarathna,</div>  
