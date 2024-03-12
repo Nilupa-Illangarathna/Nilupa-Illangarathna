@@ -26,7 +26,7 @@ I'm a computer engineer who is passionate about making contributing to open-sour
   <a href="https://www.linkedin.com/in/nilupa-illangarathna-1a5a0720b/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://huggingface.co/Sigmoid-Clan" target="_blank"><img src="https://image.flaticon.com/icons/svg/732/732167.svg" alt="Hugging Face" height="30" width="40" /></a>
   <a href="https://x.com/NIllangarathna?t=2lddTLKZ9NsBICYSNG2W8A&s=08" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-  <a href="https://web.facebook.com/nilupa.illangarathna.1/" target="_blank"><img src="image.flaticon.com/icons/svg/2111/2111398.svg" alt="Facebook" height="30" width="40" /></a>
+  <a href="https://web.facebook.com/nilupa.illangarathna.1/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
 </p>
 
 
