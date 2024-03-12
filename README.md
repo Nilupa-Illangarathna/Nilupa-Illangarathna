@@ -22,9 +22,14 @@ I'm a computer engineer who is passionate about making contributing to open-sour
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/nilupa-illangarathna-1a5a0720b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rusirugunaratne" height="30" width="40" /></a>
-<a href="https://x.com/NIllangarathna?t=2lddTLKZ9NsBICYSNG2W8A&s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rusirugunaratne" height="30" width="40" /></a>
+<a href="https://github.com/Nilupa-Illangarathna" target="blank"><img align="center" src="https://image.flaticon.com/icons/svg/25/25231.svg" alt="GitHub" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/Black_Scorpion" target="blank"><img align="center" src="https://image.flaticon.com/icons/svg/906/906324.svg" alt="HackerRank" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nilupa-illangarathna-1a5a0720b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://huggingface.co/Sigmoid-Clan" target="blank"><img align="center" src="https://image.flaticon.com/icons/svg/732/732167.svg" alt="Hugging Face" height="30" width="40" /></a>
+<a href="https://x.com/NIllangarathna?t=2lddTLKZ9NsBICYSNG2W8A&s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+<a href="https://web.facebook.com/nilupa.illangarathna.1/" target="blank"><img align="center" src="https://image.flaticon.com/icons/svg/2111/2111398.svg" alt="Facebook" height="30" width="40" /></a>
 </p>
+
 
 
 
