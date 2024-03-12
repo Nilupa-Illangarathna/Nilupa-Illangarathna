@@ -21,12 +21,6 @@ I'm a computer engineer who is passionate about making contributing to open-sour
 
 
 
-### <div align="center">I'm Nilupa Illangarathna,</div>
-
-- 🌱 I’m currently learning **J**
-
-# Hi, I'm Nilupa <img alt="wave" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 👩🏾‍💻
-
 
 
 # About Me
