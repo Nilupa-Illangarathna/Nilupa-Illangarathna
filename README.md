@@ -31,10 +31,6 @@ I'm a computer engineer who is passionate about making contributing to open-sour
 
 
 
-# About Me
-
-I'm a computer engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. I enjoy working/creating useful products using Flutter framework, Machine learning, Full-stack development, Small games using Flutter, Pygames, and security-related projects.
-
 # CV Details
 
 ## Nilupa Lakshantha Illangarathna
@@ -54,93 +50,6 @@ I'm a computer engineer who is passionate about making contributing to open-sour
 - Overall GPA: 3.65
 - 2 semesters with Dean's list level GPAs (Above 3.80)
 
-**General Studies**
-- K/Dharmaraja College, Kandy
-- G.C.E(A/L) - PHYSICAL SCIENCE STREAM
-  - Results: Combined Mathematics B, Physics A, Chemistry B
-
-## Projects
-
-### CardioX
-- Pre-heart-attack detection system
-- Technologies: Deep learning neural networks, Python, Raspberry Pi, ECG sensors, Flutter SDK, Dart, Firebase
-
-### Ivory Wallet (Mar 2022 - Oct 2022)
-- Financial Management application with Future prediction ability
-- Technologies: Flutter, Dart, SQLite, Adobe XD, Android Studio, Visual Studio Code
-
-### GUI Tower Defence game with Java FX - Multithreading (Aug 2023 - Sep 2023)
-- Tower Defence game created using Java Gradle with JavaFX to demonstrate Multithreading
-- Technologies: Java, Gradle, Threads, JavaFX
-
-### CoolMart - group project (Jun 2021 - Jul 2021)
-- Supermarket management application
-- Technologies: C++, Object Oriented Programming
-
-## Technical Skills
-
-### Programming Languages
-- C++
-- Python
-- Dart
-
-### Database
-- Firebase
-- PostgresSQL
-
-### Frameworks
-- AWS
-- JavaFX
-- Java
-- JavaScript
-- Scala
-- MongoDB
-- Athena
-- Transformers
-- Pygame
-- Flutter SDK
-- React.js
-
-### Frontend
-- React Native
-- JavaFX
-- Node.js
-
-### Backend
-- SpringBoot
-
-### Big Data
-- Spark(Scala)
-- PySpark
-
-### WonderPal - (Ongoing)
-- Fantasy-driven vacation places suggestion system
-- Technologies: Flutter SDK, Node.js, AWS, Google Colab, NLP, Python, Spark, SpringBoot, Deep Learning, MongoDB, Firebase Authentication
-
-- NLP Applications: Sentiments with polarities, Summarization, NER, Embeddings with cosine similarity.
-- Models: BERT, DistilBert, GPT2, GPT3, NLTK, T5, All-MiniLM-L6-v2, Babelscape/wikineural-multilingual-ner, Dizex/FoodBaseBERT.
-
-(Mar 2023 - Oct 2023)
-
-## Personal Details
-
-- **DOB:** 02/10/1999
-
-## Experience
-
-**Computer Engineering Intern at LSEG** (Mar 2023 - Present)
-- Fields covering Data Engineering, Frontend, and Machine Learning.
-
-## Freelancer
-
-## Interests
-
-- Mobile app development
-- Machine Learning (NLP)
-- Game Development
-- Frontend Development
-- Backend Development
-- Data Engineering
 
 ## Extra-Curricular Activities
 
