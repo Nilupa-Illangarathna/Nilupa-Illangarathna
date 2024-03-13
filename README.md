@@ -39,24 +39,19 @@ I'm a computer engineer who is passionate about making contributing to open-sour
 - 2 semesters with Dean's list level GPAs (Above 3.80)
 
 
-## Github Stats
+## Github Stats  
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nilupa-Illangarathna&show_icons=true&count_private=true&hide_border=true" align="left" />  
-</div>
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=Nilupa-Illangarathna&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nilupa-Illangarathna&hide_border=true&layout=compact" align="left" />  
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nilupa-Illangarathna&hide_border=true&layout=compact" align="left" />  
+</p>
 
 ## Languages and Tools:
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
-  <!-- Add other language and tool icons here -->
-</div>
-
+<p align="left">
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" width="40" height="40"/>
+<!-- Add other language and tool icons here -->
+</p>
 
 
 
