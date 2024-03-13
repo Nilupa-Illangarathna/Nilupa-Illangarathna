@@ -28,7 +28,11 @@ I'm a computer engineer who is passionate about making contributing to open-sour
 </p>
 
 
-
+## Github Stats  
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nilupa-Illangarathna&show_icons=true&count_private=true&hide_border=true" align="left" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nilupa-Illangarathna&hide_border=true&layout=compact" align="left" />  
+</p>
 
 ## Education
 
@@ -39,11 +43,7 @@ I'm a computer engineer who is passionate about making contributing to open-sour
 - 2 semesters with Dean's list level GPAs (Above 3.80)
 
 
-## Github Stats  
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Nilupa-Illangarathna&show_icons=true&count_private=true&hide_border=true" align="left" />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nilupa-Illangarathna&hide_border=true&layout=compact" align="left" />  
-</p>
+
 
 
 
