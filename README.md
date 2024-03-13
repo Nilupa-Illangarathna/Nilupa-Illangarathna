@@ -50,7 +50,7 @@ I'm a computer engineer who is passionate about making contributing to open-sour
 
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3>Languages and Tools:</h3>
 
 
 ## Languages and Tools:
