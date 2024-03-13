@@ -41,17 +41,22 @@ I'm a computer engineer who is passionate about making contributing to open-sour
 
 ## Github Stats
 
-<p align="left">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Nilupa-Illangarathna&show_icons=true&count_private=true&hide_border=true" align="left" />  
+</div>
+
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nilupa-Illangarathna&hide_border=true&layout=compact" align="left" />  
-</p>
+</div>
 
 ## Languages and Tools:
 
-<p align="left">
+<div align="left">
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
- </p>
+  <!-- Add other language and tool icons here -->
+</div>
+
 
 
 
