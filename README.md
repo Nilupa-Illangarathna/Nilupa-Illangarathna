@@ -51,10 +51,10 @@ I'm a computer engineer who is passionate about making contributing to open-sour
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nilupa-Illangarathna&hide_border=true&layout=compact" />
 </div>
-
+5
 </p>
 
-<br><br><br>
+<br>
 
 ## Languages and Tools:
 <p align="left">
