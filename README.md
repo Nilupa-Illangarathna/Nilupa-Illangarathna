@@ -50,8 +50,6 @@ I'm a computer engineer who is passionate about making contributing to open-sour
 
 
 
-<h3>Languages and Tools:</h3>
-
 
 ## Languages and Tools:
 <p align="left">
