@@ -40,17 +40,10 @@ I'm a computer engineer who is passionate about making contributing to open-sour
 
 
 ## Github Stats  
+<img src="https://github-readme-stats.vercel.app/api?username=Nilupa-Illangarathna&show_icons=true&count_private=true&hide_border=true" />  
 
-## Github Stats  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nilupa-Illangarathna&hide_border=true&layout=compact" />
 
-<div style="display: flex; flex-wrap: wrap;">
-    <div style="flex: 1; min-width: 50%;">
-        <img src="https://github-readme-stats.vercel.app/api?username=Nilupa-Illangarathna&show_icons=true&count_private=true&hide_border=true" align="left" />
-    </div>
-    <div style="flex: 1; min-width: 50%;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nilupa-Illangarathna&hide_border=true&layout=compact" align="left" />
-    </div>
-</div>
 
 
 
