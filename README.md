@@ -1,13 +1,7 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="left">Hi 👋, I'm Nilupa Illangarathna</h1>
+<h1 align="center">Hi 👋, I'm Nilupa Illangarathna</h1>
 
-<h2 align="center">Energetic Computer Engineer. Proactive, Self Motivated and Confident coder.</h2>
-
-
-🚀 Energetic computer engineer 🖥️
-    proactive, self-motivated,
-       and confident coder 💻
-
+<h2 align="left">🚀Energetic Computer Engineer. Proactive, Self Motivated and Confident coder 💻.</h2>
 
 I'm a computer engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. I enjoy working/creating useful products using Flutter framework, Machine learning, Full-stack development, Small games using Flutter, Pygames, and security-related projects.
 
