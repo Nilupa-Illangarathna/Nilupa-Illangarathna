@@ -3,6 +3,9 @@
 
 <h2 align="left">🚀Energetic Computer Engineer. Proactive, Self Motivated and Confident coder 💻.</h2>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nilupa-Illangarathna&label=Profile%20views&color=0e75b6&style=flat" alt="Nilupa-Illangarathna" /> </p>
+
+
 I'm a computer engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. I enjoy working/creating useful products using Flutter framework, Machine learning, Full-stack development, Small games using Flutter, Pygames, and security-related projects.
 
 - 🔭 I’m currently working on …
