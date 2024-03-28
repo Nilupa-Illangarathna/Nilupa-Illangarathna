@@ -10,6 +10,7 @@ I'm a computer engineer who is passionate about making contributing to open-sour
 - 🔭 I’m currently working on …
   - ClothCraftAR
   - ChatterBlast-SSE-Driven-Realtime-Collaborative-Connector-System
+  - Milestone Tracker 
 
 - 👀 I’m interested in …
   - Mobile app development
