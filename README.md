@@ -3,6 +3,7 @@
 
 <h2 align="left">🚀Energetic Computer Engineer. Proactive, Self Motivated and Confident coder 💻.</h2>
 
+[![GitHub Repo Views](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=your_username.your_repository_name)](https://github.com/your_username/your_repository_name)
 
 
 I'm a computer engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. I enjoy working/creating useful products using Flutter framework, Machine learning, Full-stack development, Small games using Flutter, Pygames, and security-related projects.
