@@ -7,21 +7,12 @@
 
 I'm a computer engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. I enjoy working/creating useful products using Flutter framework, Machine learning, Full-stack development, Small games using Flutter, Pygames, and security-related projects.
 
-- 🔭 I’m currently working on …
-  - ClothCraftAR
-  - ChatterBlast-SSE-Driven-Realtime-Collaborative-Connector-System
-  - Milestone Tracker 
-
 - 👀 I’m interested in …
   - Mobile app development
   - Full-stack development
   - Machine learning
   - Information and network Security
 
-- 🌱 I’m currently learning …
-  - NestJS
-  - Augmented Reality
-  - React Native
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
