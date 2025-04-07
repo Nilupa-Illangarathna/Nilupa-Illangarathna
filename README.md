@@ -1,17 +1,18 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Nilupa Illangarathna</h1>
 
-<h2 align="left">🚀Energetic Computer Engineer. Proactive, Self Motivated and Confident coder 💻.</h2>
+<h2 align="left">🚀 Software Engineer @ LSEG | Passionate Flutter Dev | Full-stack Developer</h2>
 
+I'm a passionate Computer Engineer working as a Software Engineer at LSEG. I love building things that make life easier—be it robust mobile apps, ML-backed systems, or end-to-end full-stack applications. My work spans open-source projects, research-based simulations, and real-world freelance solutions.
 
-
-I'm a computer engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. I enjoy working/creating useful products using Flutter framework, Machine learning, Full-stack development, Small games using Flutter, Pygames, and security-related projects.
-
-- 👀 I’m interested in …
-  - Mobile app development
-  - Full-stack development
-  - Machine learning
-  - Information and network Security
+- 👨‍💻 I currently work in:
+  - Data Engineering
+  - Frontend and Mobile Development
+  - Backend APIs & Cloud
+- 👀 I’m interested in:
+  - Flutter, Dart & Mobile UI
+  - Machine Learning & Computer Vision
+  - System Architecture & DevOps
 
  
 <h3 align="left">Connect with me:</h3>
@@ -25,7 +26,7 @@ I'm a computer engineer who is passionate about making contributing to open-sour
 
 ## Education
 
-**Computer Engineering Undergraduate**
+**Computer Engineering Graduate**
 - Faculty of Engineering, University of Sri Jayawardhanapura, Nugegoda
 - Minor Specialization: Data Management
 - Overall GPA: 3.65
