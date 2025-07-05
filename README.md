@@ -21,6 +21,7 @@ I'm a passionate Computer Engineer working as a Software Engineer at LSEG. I lov
 <a href="https://x.com/NIllangarathna?t=2lddTLKZ9NsBICYSNG2W8A&s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rusirugunaratne" height="30" width="40" /></a>
   <a href="https://web.facebook.com/nilupa.illangarathna.1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ragunaratne" height="30" width="40" /></a> 
 </p>
+<img src="https://komarev.com/ghpvc/?username=Nilupa-Illangarathna&style=flat-square" alt="Profile views" />
 
 
 ## Education
